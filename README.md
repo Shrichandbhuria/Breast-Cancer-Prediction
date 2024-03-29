@@ -22,7 +22,7 @@ The project employs various machine learning classification algorithms, includin
 | Support Vector Machine   | 94.74%        |
 
 ## Conclusion
-The project concludes that the k-Nearest Neighbors algorithm demonstrated the highest accuracy of 98.25%, making it the most effective model for predicting breast cancer in this dataset. These results highlight the potential of machine learning in aiding accurate diagnosis and improving patient outcomes in breast cancer management.
+The project concludes that the k-Nearest Neighbors algorithm demonstrated the highest accuracy of **98.25%**, making it the most effective model for predicting breast cancer in this dataset. These results highlight the potential of machine learning in aiding accurate diagnosis and improving patient outcomes in breast cancer management.
 
 ## Usage
 1. Clone the repository.
