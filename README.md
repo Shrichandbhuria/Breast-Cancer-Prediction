@@ -2,8 +2,8 @@
 
 ## Introduction
 Breast Cancer Prediction is a project aimed at utilizing machine learning techniques to predict the diagnosis of breast tumors as either benign or malignant. Breast cancer is a significant global health concern, and accurate diagnosis plays a crucial role in treatment planning and patient outcomes.
+
 <img src="/Users/shrichandbhuria/Desktop/breast_tumors.jpg" aling="center">
-![Malignant and Benign Breast Tumors](/Users/shrichandbhuria/Desktop/Screenshot 2024-03-28 at 11.12.57 PM)
 
 ## Dataset
 The project utilizes the Breast Cancer Wisconsin (Diagnostic) Data Set, which contains information from 569 samples of breast tumor cells. Each sample is labeled as either malignant (cancerous) or benign (non-cancerous), and features such as radius, texture, perimeter, area, and others are used to predict the diagnosis.
