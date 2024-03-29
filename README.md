@@ -3,7 +3,7 @@
 ## Introduction
 Breast Cancer Prediction is a project aimed at utilizing machine learning techniques to predict the diagnosis of breast tumors as either benign or malignant. Breast cancer is a significant global health concern, and accurate diagnosis plays a crucial role in treatment planning and patient outcomes.
 
-<img src="https://raw.githubusercontent.com/YourGitHubUsername/YourRepositoryName/main/breast_tumors.jpg" align="center">
+<img src="[https://raw.githubusercontent.com/YourGitHubUsername/YourRepositoryName/main](https://github.com/Shrichandbhuria/Breast-Cancer-Prediction/tree/main)/breast_tumors.jpg" align="center">
 
 <img src="/Users/shrichandbhuria/Desktop/breast_tumors.jpg" aling="center">
 
